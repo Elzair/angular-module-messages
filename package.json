@@ -1,0 +1,24 @@
+{
+  "name": "angular-module-messages",
+  "version": "1.0.0",
+  "description": "Messages AngularJS module suitable for bundling with Browserify or Webpack",
+  "main": "angular-messages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elzair/angular-module-messages.git"
+  },
+  "keywords": [
+    "angular",
+    "browserify",
+    "webpack"
+  ],
+  "author": "Philip Woods",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elzair/angular-module-messages/issues"
+  },
+  "homepage": "https://github.com/Elzair/angular-module-messages"
+}
